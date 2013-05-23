@@ -1,0 +1,89 @@
+
+[+] General Parameters:
+LETOR 4.0 dataset: No
+Model file:	/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/0.model
+Feature normalization: No
+Test metric:	NDCG@100
+Model:		MART
+
+Reading feature file [/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/test2k.mslr]: 0... 
+Reading feature file [/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/test2k.mslr]... [Done.]            
+(1 ranked lists, 200 entries read)
+NDCG@100 on test data: 0.2366
+
+
+[+] General Parameters:
+LETOR 4.0 dataset: No
+Model file:	/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/1.model
+Feature normalization: No
+Test metric:	NDCG@100
+Model:		RankNet
+
+Reading feature file [/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/test2k.mslr]: 0... 
+Reading feature file [/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/test2k.mslr]... [Done.]            
+(1 ranked lists, 200 entries read)
+NDCG@100 on test data: 0.2081
+
+[+] General Parameters:
+LETOR 4.0 dataset: No
+Model file:	/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/2.model
+Feature normalization: No
+Test metric:	NDCG@100
+Model:		RankBoost
+
+Reading feature file [/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/test2k.mslr]: 0... 
+Reading feature file [/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/test2k.mslr]... [Done.]            
+(1 ranked lists, 200 entries read)
+NDCG@100 on test data: 0.5264
+
+......................
+
+[+] General Parameters:
+LETOR 4.0 dataset: No
+Model file:	/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/4.model
+Feature normalization: No
+Test metric:	NDCG@100
+Model:		Coordinate Ascent
+
+Reading feature file [/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/test2k.mslr]: 0... 
+Reading feature file [/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/test2k.mslr]... [Done.]            
+(1 ranked lists, 200 entries read)
+NDCG@100 on test data: 0.139
+
+
+[+] General Parameters:
+LETOR 4.0 dataset: No
+Model file:	/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/5.model
+Feature normalization: No
+Test metric:	NDCG@100
+Model:		LambdaRank
+
+Reading feature file [/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/test2k.mslr]: 0... 
+Reading feature file [/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/test2k.mslr]... [Done.]            
+(1 ranked lists, 200 entries read)
+NDCG@100 on test data: 0.274
+
+[+] General Parameters:
+LETOR 4.0 dataset: No
+Model file:	/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/7.model
+Feature normalization: No
+Test metric:	NDCG@100
+Model:		ListNet
+
+Reading feature file [/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/test2k.mslr]: 0... 
+Reading feature file [/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/test2k.mslr]... [Done.]            
+(1 ranked lists, 200 entries read)
+NDCG@100 on test data: 0.7364
+
+[+] General Parameters:
+LETOR 4.0 dataset: No
+Model file:	/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/8.model
+Feature normalization: No
+Test metric:	NDCG@100
+Model:		Random Forests
+
+Reading feature file [/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/test2k.mslr]: 0... 
+Reading feature file [/home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/bin3/test2k.mslr]... [Done.]            
+(1 ranked lists, 200 entries read)
+NDCG@100 on test data: 0.429
+
