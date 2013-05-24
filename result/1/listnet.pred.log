@@ -1,0 +1,8 @@
+
+[+] General Parameters:
+LETOR 4.0 dataset: No
+Model file:	../result/1/listnet.model
+Feature normalization: No
+Model:		ListNet
+Reading feature file [../data/all/test1.mslr]: 0... Reading feature file [../data/all/test1.mslr]... [Done.]            
+(1 ranked lists, 1500 entries read)

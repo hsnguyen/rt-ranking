@@ -1,0 +1,14 @@
+Setting up application
+
+ 0.4653 0.3632 0.3023 0.2369 0.1936 0.9142
+ 0.0000 0.6219 0.5316 0.4514 0.3772 0.9151
+ 0.0000 0.0000 0.7243 0.6409 0.5429 0.9210
+ 0.0000 0.0000 0.0000 0.7631 0.6786 0.9225
+ 0.0000 0.0000 0.0000 0.0000 0.7884 0.9283
+ 0.8643 0.8643 0.8643 0.8643 0.8643 0.5974
+
+java.io.FileNotFoundException: /home/charly/Dropbox/Data/KTH/Individual Project/rt-ranking/data/jara/report.test2k.jara (No such file or directory)
+	at java.io.FileOutputStream.openAppend(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:207)
+	at jara.report.PerformanceReport.save(PerformanceReport.java:142)
+	at jara.PredictSamples.main(PredictSamples.java:115)
