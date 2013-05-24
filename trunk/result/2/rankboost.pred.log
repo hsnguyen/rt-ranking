@@ -1,0 +1,8 @@
+
+[+] General Parameters:
+LETOR 4.0 dataset: No
+Model file:	../result/2/rankboost.model
+Feature normalization: No
+Model:		RankBoost
+Reading feature file [../data/all/test2.mslr]: 0... Reading feature file [../data/all/test2.mslr]... [Done.]            
+(1 ranked lists, 1500 entries read)
